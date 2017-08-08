@@ -8,6 +8,7 @@
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/jquery/jquery-simulate/blob/master/AUTHORS.txt"
   },
+  "main": "jquery.simulate.js",
   "maintainers": [
     {
       "name": "Mike Sherov",
